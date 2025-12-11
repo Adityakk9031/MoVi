@@ -1,4 +1,4 @@
-# 🎬 MoVi - Netflix Clone Application
+# 🎬 MoVi 
 
 A full-stack streaming application built with **Flutter** (cross-platform frontend) and **Node.js/Express** (backend), featuring user authentication, movie browsing, TV show recommendations, and search functionality.
 
