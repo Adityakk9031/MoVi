@@ -7,6 +7,7 @@ A full-stack streaming application built with **Flutter** (cross-platform fronte
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Project Structure](#project-structure)
@@ -29,6 +30,20 @@ MoVi is a Netflix-inspired streaming application that demonstrates modern mobile
 - Search functionality for movies and shows
 - Watch trailers via YouTube
 - Responsive UI across all platforms (iOS, Android, Web, macOS, Linux, Windows)
+
+---
+
+## 📸 Screenshots
+
+### App UI Screenshots
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|:---:|:---:|:---:|
+| ![Image 1](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE1.jpeg) | ![Image 2](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE2.jpeg) | ![Image 3](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE3.jpeg) |
+| ![Image 4](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE4.jpeg) | ![Image 5](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE5.jpeg) | ![Image 6](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE6.jpeg) |
+| ![Image 7](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE7.jpeg) | ![Image 8](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE8.jpeg) | ![Image 9](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE9.jpeg) |
+| ![Image 10](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE10.jpeg) | ![Image 11](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE11.jpeg) | ![Image 12](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE12.jpeg) |
+| ![Image 13](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE13.jpeg) | ![Image 14](https://raw.githubusercontent.com/Adityakk9031/MoVi/f28b12d565a93d9b20a3fed366725c1d87ec698c/IMAGE14.jpeg) | |
 
 ---
 
